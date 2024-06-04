@@ -1,0 +1,9 @@
+a=5
+b=2.5
+c="keyur"
+print(type(a))
+print(type(b))
+print(type(c))
+print(a)
+print(b)
+print(c)
